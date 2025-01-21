@@ -11,33 +11,39 @@ permalink: /syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** TBA.  Additional office hours are always available by request.
+**Office hourse:** TBA.  Additional office hours are available by request.
 
 **Course website:** we will use Canvas website (Spring 2023 MATH 350-2 18781), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math350spring2024">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
+**Webassign class key:** [fullerton 4080 7557](https://www.getenrolled.com/?courseKey=fullerton40807557)
+
+
 ## Course meeting information
-* Section: 02
-* Course ID: 18781
-* Time: MW 12:00PM-01:50PM
+* Section: 08 and 16
+* Course ID: 18132 and 18331
+* Time:
+  - Section 08: TTh 10:00AM-11:50AM
+  - Section 16: TTh 01:00PM-02:50PM
 * Meeting Dates: 08/26/2024-12/13/2024
-* Location: MH 476
+* Location: MH 416
 
 ## Course catalog description
-Development of the theoretical foundations of calculus with an emphasis on mathematical rigor and formal proof. Algebraic and topological properties of the real numbers; limits of sequences and functions; continuity, differentiation and integration of functions of one variable; infinite series.
-
-**Course prerequisites:** MATH 250B and MATH 280 with a "C" (2.0) or better.
+Properties of functions. The limit, derivative and definite integral concepts; applications of the derivative, techniques and applications of integration. 
+**Course prerequisites:** passing score on ALEKS; or passing score or exemption on MQE; or MATH 125 with C (2.0) or better
 
 ## Course Material
 ### Required Textbooks
 The textbook for this course is:
 
-1. *Mathematical Analysis* by Apostol 2nd Ed.
+1. *Essential Calculus* by Stewart 2nd Ed available with Webassign access code.  A physical copy of the book is optional.
 
 ### Required technology
-For this course, you will need to have access to technology that will allow you to join Zoom office hours, and view and upload assignments on Canvas.
+For this course, you will need to have access to technology that will allow you to view and upload assignments on Canvas and complete homework assignments on Webassign.
 
-* **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
+* **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.
 * **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments.
+* **Webassign:** You will need to buy a semester-long subscription for Webassign.  Subscription codes are available at the campus bookstore or may be purchased from Webassign directly.  When signing up for the course online you will also need to use the above **Webassign class key**.  You can get a two-week trial period by simply entering your class key without a subscription code.
+
 
 ### Technology requests
 If you do not have access to the necessary technology, you may be able to request a laptop, MiFi (wi-fi hotpot), and/or headset from the CSUF IT Department by filling out this <a target="_parent" href="https://apps.fullerton.edu/coviddevicerequest/Request.aspx">technology device request form (link)</a>.
