@@ -20,7 +20,9 @@ permalink: /syllabus
 
 ## Course meeting information
 * Section: 08 and 16
-* Course ID: 18132 and 18331
+* Course ID:
+  - Section 08: 18132 
+  - Section 16: 18331
 * Time:
   - Section 08: TTh 10:00AM-11:50AM
   - Section 16: TTh 01:00PM-02:50PM
@@ -55,9 +57,11 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ## Grading
 ### Grading scheme
 
-* Homework: 25%
-* Midterm Exams: 3 at 15% each
+* Homework: 10%
+* Quizzes: 10%
+* Midterm Exams: 40% 
 * Final Exam: 30%
+* Writing project: 10%
 
 **Caution!** Do your homework!  It is worth a considerable percentage of your grade.  It is possible to pass every exam in this class and still fail if you don't bother to turn in your homework.
 
@@ -115,45 +119,35 @@ If you have an accommodation from Disability Support Services (such as time-and-
 There will be three midterm exams, each lasting 1 hour 50 minutes.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time on the following dates:
-* Wednesday, September 25, 2024
-* Wednesday, October 23, 2024
-* Wednesday, November 20, 2024
+* Thursday, February, 13 2025
+* Thursday, March 13, 2025
+* Thursday, April 17, 2025
 
 **Final Exam**
 The final exam will be cumulative and will account for 30\% of your grade.
 It will be held
-* Monday, December 16 from 1PM-2:50PM
+* Section 08: Tuesday, May 13 from 09:00AM-10:50AM
+* Section 16: Tuesday, May 13 from 01:00PM-02:50PM
 
 ## Important academic calendar dates
-**August:**
-* 23rd: Last day to register without paying $25 Registration Late Fee
-  Last day to receive full refund of resident and non-resident mandatory fees
-* 24th: First day of class
-
-**September:**
-* 1st: Last day students are enrolled from the waitlist
-  Last day to apply for graduation through the Student Homepage for Fall 2024 bachelor's degree candidates.
-* 10th:	Last day to enroll with a $25 late registration fee.
-* 10th: Last day to add/drop classes without a grade of “W” through Student Homepage
- All permits issued expire at midnight
- Last day to declare audit and change grading basis
-* 6th: Add Classes-Submit the online Late Add Request with a $20 Late Add Fee
- Withdrawal Classes-Submit the online Withdrawal Request with “W” grade
-* 23rd: Census Date
- Last day to submit a Late Add Request with $20 Late Add Fee
- Last day for Excess Unit Approval for graduating seniors
- Last day for departments to approve undergraduate candidacy for FA 23
-* 29th: Last day to apply for Spring 2024 graduation to receive priority registration
-
-**October:**
-* 18th: Last day for undergraduate students to pay $115 graduation fee for Fall 2023
-* 30th: Last day to receive a pro-rated refund from withdrawn classes
-
-**November:**
-* 15th: Last day to submit withdrawal request with “W” grade for non-medical reason.
-
-**December:**
-* 6th: Last day to submit a withdrawal request with “W” grade for medical reasons
+* January 17
+TITAN ONLINE AVAILABLE FOR ADDING
+  - Last day to register without a $25 late registration fee.
+TITAN ONLINE AVAILABLE FOR DROPPING
+  - Last day to drop without a record of enrollment and receive full refund, less $10 per class.
+* January 18 - January 26
+TITAN ONLINE AVAILABLE FOR ADDING
+  - No electronic registration permit required to add classes.
+  - $25 late registration fee to register/add all classes.
+* January 27 - February 4
+LAST DAY TITAN ONLINE AVAILABLE FOR ADDING
+  - EIP-issued registration permit required to add all classes.
+  - $25 late registration fee to register/add all classes.
+  - Last day to drop a class without a grade of "W".	February 4
+  - Last day to drop a class with a grade of "W" and receive 65% refund. Complete the request for Withdrawal Process online	February 18
+* April 18
+LAST DAY FOR WITHDRAWAL
+  - Final deadline to withdraw from classes with a grade of “W” for serious and compelling reasons only. Complete the request for Withdrawal Process online.
 
 ## Academic integrity
 Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
