@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /extras/syllabus
+permalink: /syllabus
 ---
 
 ## Instructor information
