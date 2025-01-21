@@ -19,11 +19,11 @@ title: Math 150A Calculus I
 
 **Office hours:** TBA and by appointment
 
-**Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
+**Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
 **First steps**
 
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3457313/modules/9061521).
+Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3492201/modules/9273032).
 
 Please reach out as soon as possible if you have any questions or concerns.
 
