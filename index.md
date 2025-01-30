@@ -17,7 +17,7 @@ title: Math 150A Calculus I
   * Section 08: Tuesday and Thursday 10:00AM-11:50AM
   * Section 16: Tuesday and Thursday 01:00PM-02:50PM
 
-**Office hours:** TBA and by appointment
+**Office hours:** Tuesday, Wednesday, and Thursday 3-4PM and by appointment
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
