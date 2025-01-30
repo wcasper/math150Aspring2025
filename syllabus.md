@@ -11,7 +11,7 @@ permalink: /syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** TBA.  Additional office hours are available by request.
+**Office hourse:** Tuesday, Wednesday, and Thursday 3-4PM.  Additional office hours are available by request.
 
 **Course website:** we will use Canvas website (Spring 2023 MATH 350-2 18781), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math350spring2024">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
@@ -117,7 +117,6 @@ If you have an accommodation from Disability Support Services (such as time-and-
 
 **Midterm Exams**
 There will be three midterm exams, each lasting 1 hour 50 minutes.
-Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time on the following dates:
 * Thursday, February, 13 2025
 * Thursday, March 13, 2025
