@@ -104,11 +104,7 @@ You will be assigned a few sections of material to read prior to most class meet
 
 
 **Homework**
-For homework, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this (in order of decreasing preference) are
-* typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
-* writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
-* using some other word processor such as Microsoft Word to create the document and then export it as a PDF
-Homework will also involve some online Canvas quizzes that will help you assess your understanding of different topics.  These will not have a time limit and can be done at home, but should be completed individually.
+Homework will be submitted via Webassign.  One-time extensions for homework may be available by request under certain circumstances (such as medical issues or internet issues).   Also extensions may be denied when it looks like it is becoming a habit.  It is much better to get the homework done on time, so that it doesn't pile up. 
 
 ## Exams
 Exams will take place during class at the times stated below. You will come to class and take the exam during the specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
