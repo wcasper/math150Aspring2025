@@ -6,7 +6,7 @@ permalink: /writing/project
 
 The website [upwork.com](upwork.com) connects companies requiring technical work with subject experts in various fields.  One day, while browsing mathematics-related projects looking for help, you find the following ads:
 
-* [Numbers guy needed for scene design](/writing/cans.html)
+* [Numbers guy needed for scene design](cans.html)
 * [Searching for math help for aeronautics design]
 * [Looking for math guru for education startup]
 * [Seeking mathematics specialist for rocket telemetry]
