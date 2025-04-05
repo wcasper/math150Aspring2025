@@ -6,11 +6,12 @@ permalink: /writing/project
 
 The website [upwork.com](upwork.com) connects companies requiring technical work with subject experts in various fields.  One day, while browsing mathematics-related projects looking for help, you find the following ads:
 
-* [Numbers guy needed for scene design](cans.html)
-* [Searching for math help for aeronautics design]
-* [Looking for math guru for education startup]
-* [Seeking mathematics specialist for rocket telemetry]
-* [Container manufacturer needs a good analyst]
+* [Numbers guy needed for scene design](scene.html)
+* [Searching for math help for aeronautics design](glider.html)
+* [Looking for math guru for education startup](education.html)
+* [Seeking mathematics specialist for rocket telemetry](rocket.html)
+* [Container manufacturer needs a good analyst](cans.html)
+
 
 
 Your job is to work in a group to complete one of the above commissions by submitting a 3-5 page report.  Relevant graphs / equations should also be included in the report.  Group members are expected to contribute equally.  Grading is based on the following categories
